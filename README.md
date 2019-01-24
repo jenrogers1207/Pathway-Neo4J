@@ -1,1 +1,2 @@
-# Pathway-Neo4J
+# Pathway App with Neo4J
+
